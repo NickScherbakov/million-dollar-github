@@ -70,6 +70,23 @@ Hit \$1 000 000 USD in annual revenue/sponsorships by:
 
 ---
 
+## 📚 Additional Examples & Resources
+
+### Open Source Success Stories
+
+#### Example 1: Vue.js
+Vue.js is a progressive JavaScript framework that gained massive popularity due to its simplicity and flexibility. It is supported by a strong community and has a GitHub Sponsors program to fund its development.
+
+#### Example 2: Tailwind CSS
+Tailwind CSS is a utility-first CSS framework. The team monetizes through premium products like Tailwind UI and courses, while maintaining the open-source core.
+
+### Resources for Monetization
+- [GitHub Sponsors Documentation](https://docs.github.com/en/sponsors)
+- [Open Source Guides](https://opensource.guide/)
+- [Monetizing Open Source Projects](https://www.geeksforgeeks.org/blogs/how-to-earn-money-from-github/)
+
+---
+
 > _“Quality first, persistence always.”_
 
 ---
@@ -111,7 +128,6 @@ Outline your year‑long plan:
 - ⭐ Stars, 🔀 Forks, 👥 Community size  
 - 💵 Monthly recurring sponsorships  
 - 📊 Conversion rates (free → paid)
-
 ```
 
 ---
